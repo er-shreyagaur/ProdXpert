@@ -43,11 +43,9 @@ This makes it a well-rounded tool for understanding product data operations in a
 
 - **Core Java**
 - **Collections Framework**
-- **HashMap**
 - **Object-Oriented Programming (OOPs)**
-- **Exception Handling**
-- **Generics**
-- **Eclipse IDE**
+
+
 
 ---
 
