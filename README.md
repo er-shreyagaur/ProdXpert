@@ -42,7 +42,9 @@ This makes it a well-rounded tool for understanding product data operations in a
 ## 💻 Technologies Used
 
 - **Core Java** – Base language for implementing logic, classes, and control structures.
+  
 -**OOPs Concepts** – Applied through Inheritance, Encapsulation, and Polymorphism.
+
 -**Collections Framework**:
     1. List (ArrayList) – Maintains ordered product lists with duplicate entries.
     2. Map (HashMap) – Stores product data with Product ID as key for fast lookup.
