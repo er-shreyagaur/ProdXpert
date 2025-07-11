@@ -48,7 +48,6 @@ This makes it a well-rounded tool for understanding product data operations in a
   - **Map (`HashMap`)** – Stores product data with Product ID as key for fast lookup.  
   - **Set (`HashSet`)** – Stores unique values like brands, sizes, and categories.  
   - **Queue (`PriorityQueue`)** – Processes elements based on priority, useful for sorting.  
-- **Eclipse IDE** – Used for coding, debugging, and managing the project efficiently.
 
 ---
 
