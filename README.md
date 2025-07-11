@@ -41,15 +41,15 @@ This makes it a well-rounded tool for understanding product data operations in a
 
 ## 💻 Technologies Used
 
-- **Core Java** – Base language for implementing logic, classes, and control structures.
-  
--**OOPs Concepts** – Applied through Inheritance, Encapsulation, and Polymorphism.
+- **Core Java** – Base language for implementing logic, classes, and control structures.  
+- **OOPs Concepts** – Applied through **Inheritance**, **Encapsulation**, and **Polymorphism**.  
+- **Collections Framework:**
+  - **List (`ArrayList`)** – Maintains ordered product lists with duplicate entries.  
+  - **Map (`HashMap`)** – Stores product data with Product ID as key for fast lookup.  
+  - **Set (`HashSet`)** – Stores unique values like brands, sizes, and categories.  
+  - **Queue (`PriorityQueue`)** – Processes elements based on priority, useful for sorting.  
+- **Eclipse IDE** – Used for coding, debugging, and managing the project efficiently.
 
--**Collections Framework**:
-    1. List (ArrayList) – Maintains ordered product lists with duplicate entries.
-    2. Map (HashMap) – Stores product data with Product ID as key for fast lookup.
-    3. Set (HashSet) – Stores unique values like brands, sizes, and categories.
-    4. Queue (PriorityQueue) – Processes elements based on priority, useful for sorting.
 ---
 
 ## 📂 Folder Structure / File Description
