@@ -1,41 +1,31 @@
-# ProdXpert
+## ProdXpert
 
-**ProdXpert** is a Java-based console application designed to manage and analyze various types of products. It allows users to perform operations such as adding, viewing, sorting, and filtering product records based on defined attributes like size, color, brand, price, and subcategory.
-
----
-
-## 🧾 Introduction / Overview
-
-ProdXpert simulates a product inventory and management system using Java. The application is built with a strong focus on object-oriented principles and efficient data handling through the use of Java collections.
-
-Users can:
-- Add products
-- View all or filtered products
-- Count specific types or subtypes
-- Sort products by price
-- List available sizes, brands, and subcategories
-- Remove products by ID
-
-This makes it a well-rounded tool for understanding product data operations in a structured and interactive manner.
+**ProdXpert** is a **Java-based menu-driven console application** designed to manage and analyze various types of products. It allows users to perform operations such as adding, viewing, sorting, and filtering product records based on defined attributes like size, color, brand, price, and subcategory.
 
 ---
 
-## 🚀 Features
+## 🧾 Introduction & Features
 
-- Add new products (Shirts, T-Shirts, Mobiles)
-- View all products or filter by type
-- Count products by:
+ProdXpert demonstrates core object-oriented principles and efficient data handling using Java’s Collections Framework. It supports operations on multiple product types such as **Shirts**, **T-Shirts**, and **Mobiles**, all stored using a `HashMap` for fast access.
+
+### Key Functionalities:
+
+- **Add new products** (Shirts, T-Shirts, Mobiles)
+- **View all products** or filter by type
+- **Count products** by:
   - Category
   - Size
   - Brand
   - Subcategory
-- Filter products based on size, brand, and price
-- Sort products (e.g., Shirts and Mobiles) by price
-- List all available:
+- **Filter products** based on size, brand, and price
+- **Sort products** by price (low to high / high to low)
+- **List all available**:
   - Brands
-  - Sizes
+  - Sizes (specific to Shirts)
   - Categories and Subcategories
-- Remove a product using Product ID
+- **Remove products** using their unique Product ID
+
+This system provides a structured and interactive way to explore object-oriented Java programming and real-time data operations using collections.
 
 ---
 
